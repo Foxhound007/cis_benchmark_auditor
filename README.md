@@ -1,4 +1,5 @@
 🔐 CIS Benchmark Auditor (Lite)
+
 Author: Charles G. | Auroch Security
 Purpose: Lightweight PowerShell script to check core CIS benchmarks on Windows 10/11 systems.
 
